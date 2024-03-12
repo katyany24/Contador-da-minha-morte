@@ -14,7 +14,7 @@
 body  {
     background-color: var(--cor-de-fundo);
     color: var(--branco); 
-    font-family: 'Caveat', sans-serif;
+    font-family: 'Playfair Display', sans-serif
 }
 
 .conteudo-principal {
@@ -30,5 +30,11 @@ body  {
 .titulo-principal {
    text-align: left;
    width: 100%;
-   font-size: 50;
+   font-size: 50px;
+}
+
+.botao {
+   font-family: 'Player Display' , sans-serif;
+   background-color: aliceblue;
+   
 }
