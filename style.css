@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
 :root{
-    --cor-de-fundo: #f0b5b5;
+    --cor-de-fundo: #f9f2f2;
     --verde: #6FFF57;
     --branco: #3A375E;
     --botao-ativo:#cb0f0f;
@@ -36,5 +36,18 @@ body  {
 .botao {
    font-family: 'Player Display' , sans-serif;
    background-color: aliceblue;
+   color: var(--branco);
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+    font-size: 18px;
+    align-items: center;
+    width: 100%;
+    border-bottom: 4px solid var(--botao-ativo);
+    border-left: 2px solid var(--botao-ativo);
+    border-right: 2px solid var(--botao-ativo);
+    border-top: none;
+}
+
    
 }
