@@ -59,6 +59,14 @@ body  {
     }
    }
     
+.botao:first-child {
+    border-radius: 40px 0 0 0;
+}
+
+.botao:last-child{
+    border-radius: 0 40px 0 0;
+}
+
 .ativo {
     background-color: rgb(249, 221, 233);
     border-bottom: #fec5e5;
