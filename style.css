@@ -35,7 +35,7 @@ body  {
 
 .botao {
    font-family: 'Player Display' , sans-serif;
-   background-color: rgb(250, 246, 249);
+   background-color: rgb(244, 201, 233);
    color: var(--branco);
     display: flex;
     justify-content: center;
