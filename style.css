@@ -58,9 +58,3 @@ body  {
         display: flex;
     }
    }
-
-
-.ativo {
-    background-color: rgb(251, 247, 249);
-    border-bottom: #fbf8fa;
-}
