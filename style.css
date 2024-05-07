@@ -5,14 +5,14 @@
     --cor-de-fundo: #f8f4f4;
     --verde: #ff57d592;
     --branco: #ffffff;
-    --botao-ativo:var(--branco);
+    --botao-ativo:var(--verde);
     --botao-inativo: rgba(245, 148, 219, 0.976);
     --texto-fundo: rgba(248, 154, 231, 0.994);
 }
 
 body {
     background-color:rgba(247, 239, 245, 0.994);
-    color:#f5eff392;
+    color:#f881d0f3;
     font-family: 'Chakra Petch', sans-serif;
 }
 
