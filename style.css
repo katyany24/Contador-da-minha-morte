@@ -4,10 +4,10 @@
 :root {
     --cor-de-fundo: #f8f4f4;
     --verde: #ff57d592;
-    --branco: #ee8ad5;
+    --branco: #ee8ad524;
     --botao-ativo:var(--verde);
     --botao-inativo: rgba(245, 148, 219, 0.976);
-    --texto-fundo: rgba(248, 154, 231, 0.994);
+    --texto-fundo: rgba(248, 154, 231, 0.012);
 }
 
 body {
