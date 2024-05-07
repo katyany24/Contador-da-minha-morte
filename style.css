@@ -11,7 +11,7 @@
 }
 
 body {
-    background-color:rgba(248, 154, 231, 0.994)
+    background-color:rgba(248, 154, 231, 0.994);
     color:#ff57d592
     font-family: 'Chakra Petch', sans-serif;
 }
@@ -40,8 +40,8 @@ body {
 
 .botao {
     font-family: 'Chakra Petch', sans-serif;
-    background-color:#ff57d592
-    color:#ff57d592
+    background-color:#ff57d592;
+    color:#ff57d592;
     display: flex;
     justify-content: center;
     padding: 1em;
